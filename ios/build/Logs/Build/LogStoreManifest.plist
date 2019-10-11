@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>ABAB1D04-027E-40A5-B38F-AC2CF16BCE44</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ABAB1D04-027E-40A5-B38F-AC2CF16BCE44.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MoviesAndMe project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MoviesAndMe</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project MoviesAndMe with scheme MoviesAndMe and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>584995886.97869599</real>
+			<key>timeStoppedRecording</key>
+			<real>584995972.06359303</real>
+			<key>title</key>
+			<string>Building project MoviesAndMe with scheme MoviesAndMe and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>ABAB1D04-027E-40A5-B38F-AC2CF16BCE44</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
